@@ -1,5 +1,5 @@
 <?php
-namespace Asgard\Entityform\Fields;
+namespace Asgard\Entityform\Field;
 
 /**
  * File field.
